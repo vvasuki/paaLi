@@ -82,10 +82,10 @@
     src: url(../fonts/NotoSerifTibetan-Medium.ttf) format('truetype');
 }
 @font-face {
-    font-family: 'NotoSansSharada-Regular';
+    font-family: 'Sampradaya';
     font-style: normal;
     font-weight: normal;
-    src: url(../fonts/NotoSansSharada-Regular.ttf) format('truetype');
+    src: url(../fonts/SampradayaGrantha.ttf) format('truetype');
 }
 @font-face {
     font-family: 'satisarSharada';
